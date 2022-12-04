@@ -1,11 +1,11 @@
 ### Hi, I'm Arnaud - aka [Ziemnono][website] 👋 
 
-## I'm a PhD student and Developer!!
+## I'm a researcher at the University of Luxembourg and Developer!!
 
 - 🔭 I am studying computational science, biomechanics and machine learning ! 
 - 🌱 I’m currently learning C++ and more genrally creating stable and robust repositories
 - 👯 I’m looking to collaborate with other scientists to developp open-source tools
-- 🥅 2022 Goals: Creating a SOFA open-source plugin using FEniCS 
+- 🥅 2023 Goals: Creating a SOFA open-source plugin using FEniCS 
 - ⚡ Fun fact: I love volleyball and play guitar
 
 ### Connect with me:
